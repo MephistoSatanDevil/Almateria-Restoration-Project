@@ -1,9 +1,9 @@
-[![Release](https://img.shields.io/github/v/release/Spellhold-Studios/Almaterias-Restoration-Project?include_prereleases&color=%2392403a)](https://github.com/Spellhold-Studios/Almaterias-Restoration-Project/releases/latest)
-[![Published](https://img.shields.io/github/release-date-pre/Spellhold-Studios/Almaterias-Restoration-Project?display_date=published_at&label=published&color=%2392403a)](https://github.com/Spellhold-Studios/Almaterias-Restoration-Project/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Spellhold-Studios/Almaterias-Restoration-Project/total?color=%2392403a)](https://github.com/Spellhold-Studios/Almaterias-Restoration-Project/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%a0%20macOS%20%a0%20Linux%20%a0%20Project%20Infinity-%2392403a)](https://github.com/Spellhold-Studios/Almaterias-Restoration-Project/releases)
-[![Games](https://img.shields.io/badge/games-BG2%20%a0%20BGT%20%a0%20BG2%3AEE%20%a0%20EET-%2392403a)](https://github.com/Spellhold-Studios/Almaterias-Restoration-Project/releases)
-[![Language](https://img.shields.io/badge/language-en%20%a0%20cs%20%a0%20de%20%a0%20es%20%a0%20fo%20%a0%20fr%20%a0%20it%20%a0%20nl%20%a0%20pl%20%a0%20pt--BR%20%a0%20ru%20%a0%20zh--CN-%2392403a)](https://github.com/Spellhold-Studios/Almaterias-Restoration-Project/releases)
+[![Release](https://img.shields.io/github/v/release/Spellhold-Studios/Almateria-Restoration-Project?include_prereleases&color=%2392403a)](https://github.com/Spellhold-Studios/Almateria-Restoration-Project/releases/latest)
+[![Published](https://img.shields.io/github/release-date-pre/Spellhold-Studios/Almateria-Restoration-Project?display_date=published_at&label=published&color=%2392403a)](https://github.com/Spellhold-Studios/Almateria-Restoration-Project/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Spellhold-Studios/Almateria-Restoration-Project/total?color=%2392403a)](https://github.com/Spellhold-Studios/Almateria-Restoration-Project/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%a0%20macOS%20%a0%20Linux%20%a0%20Project%20Infinity-%2392403a)](https://github.com/Spellhold-Studios/Almateria-Restoration-Project/releases)
+[![Games](https://img.shields.io/badge/games-BG2%20%a0%20BGT%20%a0%20BG2%3AEE%20%a0%20EET-%2392403a)](https://github.com/Spellhold-Studios/Almateria-Restoration-Project/releases)
+[![Language](https://img.shields.io/badge/language-en%20%a0%20cs%20%a0%20de%20%a0%20es%20%a0%20fo%20%a0%20fr%20%a0%20it%20%a0%20nl%20%a0%20pl%20%a0%20pt--BR%20%a0%20ru%20%a0%20zh--CN-%2392403a)](https://github.com/Spellhold-Studios/Almateria-Restoration-Project/releases)
 
 <!--
 Badges white space separator: %20%a0%20
@@ -26,8 +26,8 @@ Why some badges update slowly: https://github.com/pujux/badge-it/issues/78
 
 <br>
 
-[<img alt="Download" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/download.svg" height="28">](https://github.com/Spellhold-Studios/Almaterias-Restoration-Project/releases/latest)&nbsp;
-[<img alt="Readme" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/readme.svg" height="28">](https://spellhold-studios.github.io/readmes/almaterias-restoration-project/readme-arp-english.html)&nbsp;
+[<img alt="Download" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/download.svg" height="28">](https://github.com/Spellhold-Studios/Almateria-Restoration-Project/releases/latest)&nbsp;
+[<img alt="Readme" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/readme.svg" height="28">](https://spellhold-studios.github.io/readmes/almateria-restoration-project/readme-arp-english.html)&nbsp;
 [<img alt="Webpage" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/webpage.svg" height="28">](https://spellhold-studios.github.io/)&nbsp;
 [<img alt="Discord" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/discord-blue.svg" height="28">](https://discord.gg/pE2Njbdb2a)
 
@@ -35,7 +35,7 @@ Why some badges update slowly: https://github.com/pujux/badge-it/issues/78
 
 The Restoration Project (ARP) is a mod for Baldur's Gate II aiming to restore literally all unused sounds as well as some minor cut characters or locations. In recent iterations it evolved into the younger, brasher sidekick of Unfinished Business.
 
-*Please check the complete [Readme](https://spellhold-studios.github.io/readmes/almaterias-restoration-project/readme-arp-english.html) to learn more about this mod before installation.*
+*Please check the complete [Readme](https://spellhold-studios.github.io/readmes/almateria-restoration-project/readme-arp-english.html) to learn more about this mod before installation.*
 
 ## Components
 
