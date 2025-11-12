@@ -33,7 +33,7 @@ Why some badges update slowly: https://github.com/pujux/badge-it/issues/78
 
 ## Introduction
 
-The Restoration Project (ARP) is a mod for Baldur's Gate II aiming to restore literally all unused sounds as well as some minor cut characters or locations. In recent iterations it evolved into the younger, brasher sidekick of Unfinished Business.
+Almateria's Restoration Project (ARP) is a mod for Baldur's Gate II aiming to restore literally all unused sounds as well as some minor cut characters or locations. In recent iterations it evolved into the younger, brasher sidekick of Unfinished Business.
 
 *Please check the complete [Readme](https://spellhold-studios.github.io/readmes/almateria-restoration-project/readme-arp-english.html) to learn more about this mod before installation.*
 
